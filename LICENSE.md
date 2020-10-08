@@ -1,0 +1,1 @@
+Hitapps services module licence information here.

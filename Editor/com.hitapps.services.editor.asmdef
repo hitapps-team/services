@@ -1,0 +1,22 @@
+{
+  "name": "com.hitapps.services.editor",
+  "references": [
+  ],
+  "includePlatforms": [
+    "Android",
+    "Editor",
+    "iOS",
+    "macOSStandalone",
+    "WindowsStandalone64"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [
+  ],
+  "versionDefines": [],
+  "noEngineReferences": true
+}

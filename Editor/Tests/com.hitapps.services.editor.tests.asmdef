@@ -1,0 +1,25 @@
+{
+  "name": "com.hitapps.services.editor.tests",
+  "references": [
+    "com.hitapps.modules.analytics",
+    "com.hitapps.modules.analytics.editor"
+  ],
+  "includePlatforms": [
+    "Android",
+    "Editor",
+    "iOS",
+    "macOSStandalone",
+    "WindowsStandalone64"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [
+  ],
+  "autoReferenced": false,
+  "defineConstraints": [
+    "HITAPPS_TESTS_ENABLED"
+  ],
+  "versionDefines": [],
+  "noEngineReferences": true
+}

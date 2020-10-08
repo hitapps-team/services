@@ -1,0 +1,82 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=HitApps Services
+
+[WINDOWS]
+main="HitApps Services","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+_hitapps_services_8cs.html
+_hitapps_services_8cs_source.html
+_i_analytics_service_8cs.html
+_i_analytics_service_8cs_source.html
+_i_async_request_8cs.html
+_i_async_request_8cs_source.html
+_i_config_loader_8cs.html
+_i_config_loader_8cs_source.html
+_i_config_provider_8cs.html
+_i_config_provider_8cs_source.html
+_i_crashlytics_service_8cs.html
+_i_crashlytics_service_8cs_source.html
+_i_log_provider_8cs.html
+_i_log_provider_8cs_source.html
+_i_logger_8cs.html
+_i_logger_8cs_source.html
+_i_manifest_loader_8cs.html
+_i_manifest_loader_8cs_source.html
+_i_service_8cs.html
+_i_service_8cs_source.html
+_i_service_provider_8cs.html
+_i_service_provider_8cs_source.html
+annotated.html
+classes.html
+dir_4f6666a8f2ab10bc970eb7559668f031.html
+files.html
+functions.html
+functions_func.html
+functions_prop.html
+hierarchy.html
+index.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_analytics_service.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_async_request-members.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_async_request.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_config_loader-members.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_config_loader.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_config_provider-members.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_config_provider.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_crashlytics_service-members.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_crashlytics_service.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_log_provider-members.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_log_provider.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_logger-members.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_logger.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_manifest_loader-members.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_manifest_loader.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_service.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_service_provider-members.html
+interfacecom_1_1hitapps_1_1modules_1_1services_1_1_i_service_provider.html
+namespacecom.html
+namespacecom_1_1hitapps.html
+namespacecom_1_1hitapps_1_1modules.html
+namespacecom_1_1hitapps_1_1modules_1_1services.html
+namespacemembers.html
+namespacemembers_enum.html
+namespaces.html
+bc_s.png
+bdwn.png
+closed.png
+nav_f.png
+nav_h.png
+open.png
+sync_off.png
+sync_on.png
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
