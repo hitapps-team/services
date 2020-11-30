@@ -1,9 +1,9 @@
 {
   "name": "com.hitapps.services",
   "displayName": "Hitapps public services",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "unity": "2019.4",
-  "unityRelease": "10f1",
+  "unityRelease": "1f1",
   "description": "Hitapps public services and wrappers for modules implementation",
   "keywords": [
     "modules",
@@ -27,6 +27,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bayerartem/modules.services"
+    "url": "https://github.com/hitapps-team/services"
   }
 }
