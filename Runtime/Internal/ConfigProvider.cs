@@ -7,7 +7,7 @@ namespace com.hitapps.services.Internal
     {
         public IConfigLoader<T> ConfigLoader<T>()
         {
-            return new ConfigLoader<T>(Log);
+            return Stub.ConfigLoader<T>.I;
         }
     }
 }

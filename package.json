@@ -1,7 +1,7 @@
 {
   "name": "com.hitapps.services",
   "displayName": "Hitapps public services",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "unity": "2019.4",
   "unityRelease": "1f1",
   "description": "Hitapps public services and wrappers for modules implementation",

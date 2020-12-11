@@ -9,8 +9,9 @@ namespace com.hitapps.services
         void SetAdService<T>(T service) where T : IAdService;
         void SetupLogProvider(ILogProvider logProvider);
 
+        void SetSerializer(ISerializer serializer);
         IConfigProvider Config { get; }
-
+        ISerializer StringSerializer { get; }
         ILogProvider LogProvider { get; }
         IAdService Ads { get; }
         IAnalyticsService Analytics { get; }

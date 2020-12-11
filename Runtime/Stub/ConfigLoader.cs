@@ -9,14 +9,15 @@ namespace com.hitapps.services.Stub
     /// <typeparam name="T"></typeparam>
     internal class ConfigLoader<T> : IConfigLoader<T>, IDisposable
     {
-        private readonly ILogger Log;
+        private static readonly ILogger Log = HitappsServices.Get.LogProvider.GetLogger("com.hitapps.configs");
         private IManifestLoader<T> _customLoader;
         private Func<T> _defaultConfig;
 
+        private static ConfigLoader<T> _i;
+        public static ConfigLoader<T> I => _i ?? (_i = new ConfigLoader<T>());
 
-        public ConfigLoader(ILogger log)
+        private ConfigLoader()
         {
-            Log = log;
         }
 
         public IObservable<T> LoadConfig()
