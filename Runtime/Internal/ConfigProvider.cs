@@ -7,7 +7,7 @@ namespace com.hitapps.services.Internal
     {
         public IConfigLoader<T> ConfigLoader<T>()
         {
-            return Stub.ConfigLoader<T>.I;
+            return Stub.ConfigAsyncObserver<T>.I;
         }
     }
 }
